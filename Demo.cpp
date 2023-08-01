@@ -1,8 +1,8 @@
 /**
  * Demo file for the exercise on binary tree
  *
- * @author Erel Segal-Halevi
- * @since 2021-04
+ * @Guy Cohen
+ * @since 2022-04
  */
 
 #include <iostream>
